@@ -1,4 +1,6 @@
-## Hi 
+## Welocome to my Github Profile 
+
+<hr />
 
 -  📘 I’m a french student in computer science
 -  🪐 I love science and computer science.
