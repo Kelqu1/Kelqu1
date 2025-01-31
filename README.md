@@ -6,6 +6,8 @@
 -  🪐 I love science and computer science.
 -  🖥️ I'm learning infomatics and IT
 
+<hr />
+
 -  my two main language are :
 -  🐍 python
 -  🅒 C++ 
