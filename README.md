@@ -2,9 +2,9 @@
 
 <hr />
 
--  📘 I’m a french student in computer science
+-  📘 I’m a french student in computer science.
 -  🪐 I love science and computer science.
--  🖥️ I'm learning infomatics and IT
+-  🖥️ I'm learning computer science and IT
 
 <b/>
 <b/>
