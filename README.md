@@ -9,7 +9,7 @@
 <b/>
 <b/>
 
--  my two main language are :
+-  my two main languages are :
 -  🐍 python
 -  🅒 C++ 
 
